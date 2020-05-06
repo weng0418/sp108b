@@ -3,7 +3,7 @@
 ```
 PS D:\ccc\student\sp108b\homework\03-jitCall> gcc jitCall.c -o jitCall
 PS D:\ccc\student\sp108b\homework\03-jitCall> ./jitCall
-power(2, 3)=8
+power(2, 3)=24
 ```
 
 ## 原理
